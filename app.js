@@ -7,14 +7,14 @@ var items=[{name:"Samsung Galaxy Note 10+",
 img:"/images/gal1.jpg",
 price:"89,000 Rs.",
 description:"Aura Black, 8GB RAM, 256GB Storage",
-Review:"Cost effective"
+review:"Cost effective"
 
 },
 {name:"OnePlus 7",
 img:"/images/gal2.jpg",
 price:"37900 Rs.",
 description:"Mirror Grey, 8GB RAM, 256GB Storage",
-Review:"Good Battery life"
+review:"Good Battery life"
 },
 {name:"Samsung Galaxy M20",
 img:"/images/gal3.jpg",
@@ -27,7 +27,7 @@ review:"good camera quality and cost effective"
 img:"/images/gal4.jpg",
 price:"7900  Rs.",
 description:"Ocean Blue, 3+32GB",
-review:"Rear camera low light performance average but front camera pretty cool"
+review:" front camera is pretty cool"
 },
 {name:"Samsung Galaxy M30",
 img:"/images/gal5.jpg",
@@ -55,14 +55,14 @@ review:"camera is above average"
 img:"/images/gal8.jpg",
 price:"76000 Rs.",
 description:"White, 8GB RAM, 512GB Storage",
-review:"poor performance"
+review:"very powerful features and performance"
 },
 
 {name:"Nokia 6.1 Plus",
 img:"/images/gal9.jpg",
 price:"9000 Rs.",
 description:"Black,6GB RAM,64GB",
-review:"Rear camera low light performance average but front camera pretty cool"
+review:"Rear camera is pretty cool"
 
 },
 {name:"Samsung Galaxy M40",
@@ -75,7 +75,7 @@ review:"high memory with No Cost EMI/Additional Exchange Offer"
 img:"/images/gal11.jpg",
 price:"12000 Rs.",
 description:"Red, 4GB RAM, 64GB Storage",
-review:"Loudspeaker quality is just like radio, but the normal earpiece sound is very great,loud and clear too."
+review:"Loudspeaker quality is just like radio, but the normal ear piece sound is very great,loud and clear too."
 },
 
 {name:"Redmi Y3",
@@ -100,20 +100,20 @@ review:"Loudspeaker sound quality is very great,loud and clear too."
 img:"/images/gal15.jpg",
 price:"15000 Rs.",
 description:"Gold, 64 GB  4 GB RAM.",
-review:"powerfu ldisplay and features"
+review:"powerful display and features"
 },
 
 {name:"Samsung Galaxy A50",
 img:"/images/gal16.jpg",
 price:"18900 Rs.",
 description:"Blue, 4GB RAM, 64GB Storage",
-review:"Not upto the mark,poor performance"
+review:"Not upto the mark,poor performance but camera is pretty cool"
 },
 {name:"OPPO F11",
 img:"/images/gal17.jpg",
 price:"17900 Rs.",
 description:"Fluorite Purple, 6GB RAM, 128GB Storage",
-review:"Average phone with low battery life"
+review:"Average phone with high battery life"
 },
 
 {name:"Honor 10 Lite",
@@ -138,7 +138,7 @@ review:"high memory with No Cost EMI/Additional Exchange Offer"
 img:"/images/gal20.jpg",
 price:"7800 Rs.",
 description:"Black, 2GB RAM and 32GB storage",
-review:"Average phone with low battery life"
+review:"cost effective with good features"
 
 }]
 
