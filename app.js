@@ -46,7 +46,7 @@ review:"good camera quality and cost effective"
 img:"/images/gal7.jpg",
 price:"47900 Rs.",
 description:"Phantom Black, 8GB RAM, 128GB Storage",
-review:"camera is above average"
+review:"camera is above average but good performance"
 
 
 },
